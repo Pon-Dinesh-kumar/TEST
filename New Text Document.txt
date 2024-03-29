@@ -1,0 +1,6 @@
+npx create-react-app my-app
+cd my-app
+npm start
+
+git init
+git remote set-url origin https://github.com/Pon-Dinesh-kumar/TEST.git
